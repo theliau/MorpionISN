@@ -6,3 +6,6 @@ Tu as ta propre partie privée: "MorpionISN\Duarte"
 Tu as aussi une zone de test privée où tu pourras essayer ton code sans tout mettre en commun !
 	Pour mettre à jour ta zone de test (donc ajouter les dossiers de la branche commune et tes fichiers privées) tu possèdes un fichier nommé "Clique ici pour mettre à jour ta zone de test.bat" dans les dossiers "Test\Duarte"
 Ne mets en commun des fichiers seulement si il n'y a aucun message d'erreur !
+
+Après avoir lu ce message, supprime le.
+Merci
