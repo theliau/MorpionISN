@@ -1,10 +1,10 @@
 Hey ! Du coup pour l'organisation des fichiers ici c'est du propre.
-Tu as ta propre partie privée: "MorpionISN\Thélio"
+Tu as ta propre partie privée: "MorpionISN\Théliau"
 	Tu pourras mettre tous les fichiers dont tu as besoin pour faire grandir le projet.
-	Si tu veux mettre en commun tes fichiers tu trouveras un ficher "Copy Thélio files to Commun files.bat" dans le répertoire racine du projet.
+	Si tu veux mettre en commun tes fichiers tu trouveras un ficher "Copy Théliau files to Commun files.bat" dans le répertoire racine du projet.
 	Il te suffit juste de double cliquer pour mettre tes fichiers en commun.
 Tu as aussi une zone de test privée où tu pourras essayer ton code sans tout mettre en commun !
-	Pour mettre à jour ta zone de test (donc ajouter les dossiers de la branche commune et tes fichiers privées) tu possèdes un fichier nommé "Clique ici pour mettre à jour ta zone de test.bat" dans les dossiers "Test\Thélio"
+	Pour mettre à jour ta zone de test (donc ajouter les dossiers de la branche commune et tes fichiers privées) tu possèdes un fichier nommé "Clique ici pour mettre à jour ta zone de test.bat" dans les dossiers "Test\Thélau"
 Ne mets en commun des fichiers seulement si il n'y a aucun message d'erreur !
 
 Après avoir lu ce message, supprime le.
