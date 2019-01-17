@@ -13,7 +13,7 @@ def createTables():
     """
     Cette fonction crée le tableau principal.
     Le tableau principal contient les 9 tableaux secondaires.
-    La fonction renvoit le tableau principal.
+    La fonction renvoie le tableau principal.
     """
 
     #Définition des 9 tableaux secondaires
@@ -23,7 +23,7 @@ def createTables():
                        0, 0, 0]
         tables[i] = tableSecond
 
-    #Renvoit du tableau principal contenant les 9 tableaux secondaires
+    #Renvoie du tableau principal contenant les 9 tableaux secondaires
     return tables
 
 #EXEMPLE d'utilisation de la fonction:
@@ -35,7 +35,7 @@ def openTable(index):
     Cette fonction permet de trouver le tableau voulu.
     La fonction prend un argument #index (Nombre entier entre 1 et 9 compris)
     #index est l'ID du tableau secondaire dans le tableau principal.
-    La fonction renvoit le tableau secondaire voulu.
+    La fonction renvoie le tableau secondaire voulu.
     """
 
     #L'index doit être compris entre 1 et 9, si ce n'est pas le cas on lève une erreur.
